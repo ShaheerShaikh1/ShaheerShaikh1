@@ -1,8 +1,9 @@
 # 💻 Shaheer Shaikh
 
 ## 🚀 About Me
-I’m a self-taught full-stack web developer focused on building real-world projects with HTML, CSS, and JavaScript. I enjoy turning ideas into functional web applications and improving my problem-solving skills through hands-on learning.
+I’m a self-taught full-stack web developer focused on building real-world projects. I enjoy turning ideas into functional web applications and improving my problem-solving skills through hands-on learning.
 
+☕ Fueled by coffee | 🐛 Fighting bugs daily
 
 ## 🛠️ Tech Stack
 - HTML  
