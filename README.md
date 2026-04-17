@@ -1,9 +1,8 @@
-# Hi, I'm Shaheer Shaikh 💻
+# 💻 Shaheer Shaikh
 
 ## 🚀 About Me
-- 💻 Full-stack developer in progress  
-- 📚 Currently learning HTML, CSS & JavaScript (The Odin Project)  
-- 🎯 Goal: Become a professional software developer  
+I’m a self-taught full-stack web developer focused on building real-world projects with HTML, CSS, and JavaScript. I enjoy turning ideas into functional web applications and improving my problem-solving skills through hands-on learning.
+
 
 ## 🛠️ Tech Stack
 - HTML  
