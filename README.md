@@ -12,6 +12,3 @@ I’m a self-taught full-stack web developer focused on building real-world proj
 - Building real-world web applications  
 - Strengthening problem-solving skills  
 - Mastering core web development fundamentals 
-
-## 📫 Connect With Me
-- Email: shaheer16979@gmail.com
