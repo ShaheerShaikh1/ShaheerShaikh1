@@ -1,4 +1,4 @@
-<img width="960" height="305" alt="image" src="https://github.com/user-attachments/assets/87b6e6b4-fd4f-43d9-9425-04e86c0f431c" />
+<img width="960" height="305" alt="dfvdbzc-ea86506e-08ec-4ce6-92c7-32eagererv7f5189f6" src="https://github.com/user-attachments/assets/e41f4f58-6230-4348-871a-3bfaec32e92b" />
 
 ## <p align="center"> Hi 👋 , I'm Shaheer Shaikh </p>
 
